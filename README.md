@@ -20,14 +20,10 @@ Git can be downloaded from [this embedded link](https://git-scm.com/downloads/) 
   
 8. It is advisable to create a virtual environment in your local repo. This will ensure all packages installed is only applicable to the current project to avoid global interference with other projects.
    
-    ** To create the venv (virtual environment): follow the script below:**
+    **To create the venv (virtual environment)**: **follow the script below:**
    
       python -m venv <venv; name of folder for the virtual environment>
-   
-   
       source venv/Scripts/activate    (To activate the venv)
-   
-   
       pip freeze > requirement.txt  (This will redirect every installed package in venv folder to requirement.txt)
    
    
