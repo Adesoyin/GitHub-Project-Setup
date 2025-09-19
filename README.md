@@ -33,14 +33,16 @@ Git can be downloaded from [this embedded link](https://git-scm.com/downloads/) 
        git status (to see the status of the project in your local environment)
    
        git init  (to initialized empty git repository)
+
     
    <img width="752" height="79" alt="image" src="https://github.com/user-attachments/assets/63d9ee42-c879-41f9-9955-fd12152d9433" />
    
+   
 10. To track every changes in the staging
 
-<img width="607" height="59" alt="image" src="https://github.com/user-attachments/assets/9385be6b-4c11-4a3e-830e-e88031088c8d" />
+   <img width="607" height="59" alt="image" src="https://github.com/user-attachments/assets/9385be6b-4c11-4a3e-830e-e88031088c8d" />
 
-<img width="646" height="105" alt="image" src="https://github.com/user-attachments/assets/2e91b3d4-b6c9-4ef4-9c11-fe58d256add5" />
+   <img width="646" height="105" alt="image" src="https://github.com/user-attachments/assets/2e91b3d4-b6c9-4ef4-9c11-fe58d256add5" />
 
 11. Linking up the local repo changes with the remote repo on github, copy the url link of the created repo from github.
     
