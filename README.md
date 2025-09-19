@@ -27,7 +27,7 @@ Git can be downloaded from [this embedded link](https://git-scm.com/downloads/) 
       pip freeze > requirement.txt  (This will redirect every installed package in venv folder to requirement.txt)
    
    
-10. Add python script in your main.py and commit to staging for tracking process.
+9. Add python script in your main.py and commit to staging for tracking process.
     
        git status (to see the status of the project in your local environment)
    
@@ -37,7 +37,7 @@ Git can be downloaded from [this embedded link](https://git-scm.com/downloads/) 
    <img width="752" height="79" alt="image" src="https://github.com/user-attachments/assets/63d9ee42-c879-41f9-9955-fd12152d9433" />
    
    
-11. To track every changes in the staging
+10. To track every changes in the staging
 
    <img width="607" height="59" alt="image" src="https://github.com/user-attachments/assets/9385be6b-4c11-4a3e-830e-e88031088c8d" />
 
