@@ -46,6 +46,9 @@ Git can be downloaded from [this embedded link](https://git-scm.com/downloads/) 
 11. Linking up the local repo changes with the remote repo on github, copy the url link of the created repo from github.
 <img width="882" height="273" alt="image" src="https://github.com/user-attachments/assets/f9793c87-72b9-4e9e-8e41-6f85a0dae9bb" />
 
+<img width="563" height="66" alt="image" src="https://github.com/user-attachments/assets/9f9c0fcb-4d94-4a6d-bb40-746521454dca" />
+
+
     
 
 
